@@ -37,6 +37,7 @@ Digital acknowledgement: *PUT YOUR NAME HERE*
     * CMSC389R-{h0w_2_iNt0_DNS_r3c0Rd5}. Found this by running the DNS here [https://centralops.net/co/](https://centralops.net/co/)
 
 ### Part 2 (75 pts)
-    For this part i made a new script `brute.py` and ran it through `rockyou.txt`.
-    I found the password to be `linkinpark`. Tested it by doing `nc 142.93.136.81 1337` and logged using the credentials.
-    Also found another flag CMSC389r-{brut3_f0rce_m4ster} inside the files folder whcih was in the `/home` directory.
+    
+For this part i made a new script `brute.py` and ran it through `rockyou.txt`.
+I found the password to be `linkinpark`. Tested it by doing `nc 142.93.136.81 1337` and logged using the credentials.
+Also found another flag CMSC389r-{brut3_f0rce_m4ster} inside the files folder whcih was in the `/home` directory.
