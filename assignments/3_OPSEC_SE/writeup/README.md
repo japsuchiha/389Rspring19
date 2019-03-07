@@ -1,15 +1,25 @@
 # Writeup 3 - Operational Security and Social Engineering
 
+<<<<<<< HEAD
 Name: *Japneet Singh Arora*
 Section: *0101*
 
 I pledge on my honor that I have not given or received any unauthorized assistance on this assignment or examniation.
 
 Digital acknowledgement: *Japneet Singh Arora*
+=======
+Name: *PUT YOUR NAME HERE*
+Section: *PUT YOUR SECTION NUMBER HERE*
+
+I pledge on my honor that I have not given or received any unauthorized assistance on this assignment or examniation.
+
+Digital acknowledgement: *PUT YOUR NAME HERE*
+>>>>>>> upstream/master
 
 ## Assignment Writeup
 
 ### Part 1 (40 pts)
+<<<<<<< HEAD
 I would pose as an IT guy from her own company and send her an email on the address i found on the bank's website. Since, she is the CEO it is very likely she wont rember all of her employees name. I would say in the email tht we had a security breach and i believe that some bank details were leaked and one could obviously be yours. I would then tell her to call me on the phone number as soon as she recieves this email. the phone number i would provide would be using a VoIP which is linked over Skype with a throaway email. Once she makes a call i would use a background noise with a lot of phones ringing and people responding, so that it feels like the majority of the department is busy with the same issue. I would then try to connect on an emotional level, by saying that it has been a very busy day since we are not sure how many accounts are leaked and i haven't had breakfast or lunch. Once she sympathises with me being a senior employee, I would make my move. I would then ask her some securoty questions that is the most common method of retrieving password. Since most people dont remember their security questions i would try to get her mother's maiden name, city she was born and her pet's name in a means to try get her account details. Once this is done i would ask her what browser she is working with. Then i will prompt her to open up her back account and ask her i she sees any fraudlent transactions. Obviosuly there would be no such transaction and she would say no, then i would simply ask her for her atm pin and act like i am changing it but then i would make a excuse that the site is down and you can change it on your own time.
 
 ### Part 2 (60 pts)
@@ -28,3 +38,11 @@ Sources:
 [https://www.itproportal.com/2008/03/26/what-firewall-do-and-what-firewalls-dont-do/](https://www.itproportal.com/2008/03/26/what-firewall-do-and-what-firewalls-dont-do/)
 [https://www.creativebloq.com/web-design/website-security-tips-protect-your-site-7122853]
 (https://www.creativebloq.com/web-design/website-security-tips-protect-your-site-7122853)
+=======
+
+*Replace this text with your repsonse to our prompt for part 1!*
+
+### Part 2 (60 pts)
+
+*Replace this text with your repsonse to our prompt for part 1!*
+>>>>>>> upstream/master
