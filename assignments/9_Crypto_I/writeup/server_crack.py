@@ -19,9 +19,9 @@ def server_crack():
 
     for c in characters:
         for p in passwords:
-            full = (c + p).encode()
-            res = hashlib.sha256(full).hexdigest()
-            hash[res] = full
+            code = (c + p).encode()
+            res = hashlib.sha256(code).hexdigest()
+            hash[res] = code
 
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     s.connect((server_ip, server_port))
